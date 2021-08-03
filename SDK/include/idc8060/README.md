@@ -1,0 +1,1 @@
+## This directory was empty when downloaded from the original source.
