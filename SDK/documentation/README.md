@@ -1,5 +1,5 @@
 # For Use With ROS
-Translated from Chinese to English using Google Translate and minor edits. Original Chinese README file can be found in README-CN.md
+Translated from Chinese to English using Google Translate and minor edits. Original Chinese README file can be found in [README-CN.md](README-CN.md)
 
 ## Development Environment
 
