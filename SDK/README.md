@@ -12,4 +12,4 @@ This SDK seems to be developed for a [ROS](https://www.ros.org/) based system. I
 
 There are usually not major issues using a newer version of ROS with older ROS packages, but please verify yourself and confirm the possibility in this [issue](https://github.com/Temi-Robot-Sensors/Depth-Camera/issues/2). 
 
-For more information on compiling navigate to the documentation folder for the [README]() file.
+For more information on compiling navigate to the documentation folder for the [README](documentation/) file.
