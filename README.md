@@ -58,6 +58,6 @@ Pinout of the 7-Pin connector on board as provided on the [datasheet](IDC8060%20
 
 *Image from the website depicting the camera being used through a software called "Inmotion Depth Camera Full Example".*
 
-*Possibly related repository:* [https://github.com/inmoition-depthcamera/sdk](https://github.com/inmoition-depthcamera/sdk)
+*Possible related repository:* [https://github.com/inmoition-depthcamera/sdk](https://github.com/inmoition-depthcamera/sdk)
 
 ---
