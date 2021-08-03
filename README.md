@@ -23,38 +23,38 @@ The following are WayBack Machine links to the product page for the IC8060:
 
 The following are images of the sensor taken by [@EdwardoSunny](https://github.com/EdwardoSunny):
 
-<img width="800px" src="images/image-1.png" />
+<img width="800px" src="Images/image-1.png" />
 
 *Depth Camera board attached to the LiDAR/camera mount*
 
 ---
-<img width="800px" src="images/image-2.png" />
+<img width="800px" src="Images/image-2.png" />
 
 *Close up of the flip-side of the board. Features and ARMv7 chip: STM32F105R8T6*
 
 ---
-<img width="800px" src="images/image-3.png" />
+<img width="800px" src="Images/image-3.png" />
 
 *Heatsink removable with screws on the back*
 
 ---
-<img width="800px" src="images/image-4.png" />
+<img width="800px" src="Images/image-4.png" />
 
 *Depth Camera module*
 
 ---
-<img width="800px" src="images/image-5.png" />
+<img width="800px" src="Images/image-5.png" />
 
 Pinout of the 7-Pin connector on board as provided on the [datasheet](IDC8060%20-%20Depth%20Camera%20Datasheet%20-%20EN.pdf).
 **[ISSUE](https://github.com/Temi-Robot-Sensors/Depth-Camera/issues/1): Still need a link to the connector that is described as "J23" in datasheet**
 
 ---
-<img width="800px" src="images/image-6.png" />
+<img width="800px" src="Images/image-6.png" />
 
 *Heatsink and Datasheet pointed out on the [datasheet](IDC8060%20-%20Depth%20Camera%20Datasheet%20-%20EN.pdf)*
 
 ---
-<img width="800px" src="images/image-7.png" />
+<img width="800px" src="Images/image-7.png" />
 
 *Image from the website depicting the camera being used through a software called "Inmotion Depth Camera Full Example".*
 
