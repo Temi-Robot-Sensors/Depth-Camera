@@ -51,7 +51,7 @@ Pinout of the 7-Pin connector on board as provided on the [datasheet](IDC8060%20
 ---
 <img width="800px" src="Images/image-6.png" />
 
-*Heatsink and Datasheet pointed out on the [datasheet](IDC8060%20-%20Depth%20Camera%20Datasheet%20-%20EN.pdf)*
+*Heatsink and Camera Lens pointed out on the [datasheet](IDC8060%20-%20Depth%20Camera%20Datasheet%20-%20EN.pdf)*
 
 ---
 <img width="800px" src="Images/image-7.png" />
