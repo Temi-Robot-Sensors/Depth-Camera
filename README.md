@@ -45,13 +45,13 @@ The following are images of the sensor taken by [@EdwardoSunny](https://github.c
 ---
 <img width="800px" src="Images/image-5.png" />
 
-Pinout of the 7-Pin connector on board as provided on the [datasheet](IDC8060%20-%20Depth%20Camera%20Datasheet%20-%20EN.pdf).
+Pinout of the 7-Pin connector on board as provided on the [datasheet](ENGLISH%20-%20IDC8060%20Datasheet.pdf).
 **[ISSUE](https://github.com/Temi-Robot-Sensors/Depth-Camera/issues/1): Still need a link to the connector that is described as "J23" in datasheet**
 
 ---
 <img width="800px" src="Images/image-6.png" />
 
-*Heatsink and Camera Lens pointed out on the [datasheet](IDC8060%20-%20Depth%20Camera%20Datasheet%20-%20EN.pdf)*
+*Heatsink and Camera Lens pointed out on the [datasheet](ENGLISH%20-%20IDC8060%20Datasheet.pdf)*
 
 ---
 <img width="800px" src="Images/image-7.png" />
